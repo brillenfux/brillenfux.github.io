@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: the author and this site
 permalink: /about/
 ---
 
-Some information about you!
+i'm probably wrong but that's okay.  
+you can find me here: [u/brillenfukx](https://www.reddit.com/user/brillenfukx/).  
 
-### More Information
+this site is probably a pile of junk but that's okay as well.  
+you can find a copy of it at [github](https://github.com/brillenfux/brillenfux.github.io).
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+i'm going to update any of these articles at my discretion, feel free to consult the history.
