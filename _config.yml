@@ -24,4 +24,5 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - TODO.md
   - CNAME
