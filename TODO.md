@@ -3,7 +3,7 @@
 
 introduction
 
-- orientate the reader
+- orient the reader
 - identify the focus/purpose
 - outline scope
 - state thesis

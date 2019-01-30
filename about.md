@@ -4,10 +4,10 @@ title: the author and this site
 permalink: /about/
 ---
 
-i'm probably wrong but that's okay.  
+i may be wrong but that is okay.  
 you can find me here: [u/brillenfukx](https://www.reddit.com/user/brillenfukx/).  
 
-this site is probably a pile of junk but that's okay as well.  
+this site may be boring but that is okay as well.  
 you can find a copy of it at [github](https://github.com/brillenfux/brillenfux.github.io).
 
-i'm going to update any of these articles at my discretion, feel free to consult the history.
+i may update articles at my discretion. feel free to consult the history.
